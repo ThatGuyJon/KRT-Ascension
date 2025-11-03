@@ -1,9 +1,6 @@
 
 # KRT: Kader Raid Tools
-AddOn Version: **0.5.6b**
 Game Version: **3.3.5a**
-
-Copyright (C) 2018 [Kader Bouyakoub](https://github.com/bkader)
 
 ![GUI Screenshot](screenshot.jpg "GUI Screenshot")
 
@@ -52,9 +49,6 @@ You can either **Clear** everything and start over, you can as well **Ask For Ch
 
 **Tip**: If you want to spam a single player's MS Change, **Ctrl+Click**.
 
-## ~~Loot Bans (*in progress*)~~
-
-~~Sometimes people just f\*\*\* up with tactics, and this is a cool feature I am currently working on that will allow you track who's banned from which boss' loot ... etc~~
 
 ## Loot Master
 
@@ -110,7 +104,3 @@ On the bottom right side of the window, you have the list of all the looted item
 Items can be filtered by boss or by player, so selecting a boss fight will only list the items that dropped from that boss, selected a player shows only the items collected by that player and of course you can have multiple filters, like selecting a boss and a player will only show the list of items dropped by the boss and won by the player.
 
 Right-clicking on an item from the list allows you the change the winner, the win type and the win score (_the hour doesn't matter_). This is useful when you are holding items for later roll, so whenever you roll items and hand them to winners, just change the info about the item. Note that this was the simplest method possible without having to make complex ways to automatically change info about items.
-
-## Note
-
-Since I didn't have time to work on the addon, some features aren't available yet but as soon as I can work on it, I will add them.
