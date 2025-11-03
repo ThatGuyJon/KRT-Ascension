@@ -3095,8 +3095,7 @@ do
 				if temp ~= "LFM" then
 					local total = tank + healer + melee + ranged
 					local max = name:find("25") and 25 or 10
-					temp = temp .. " ("..max-(total or 0).."/"..max..")"
-
+					
 					_G[frameName.."Output"]:SetText(temp)
 					length = strlen(temp)
 					_G[frameName.."Length"]:SetText(length.."/255")
